@@ -20,4 +20,4 @@ While at Bloc, I have learned:
   * Text Editors
   * Terminal
   * CLI Commands
-  * Git and GitHub-
+  * Git and GitHub
